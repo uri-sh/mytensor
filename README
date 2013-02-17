@@ -1,0 +1,5 @@
+This is for preliminary experimentation with Tensor optimization methods.
+The motivation lies in the "Tensor Method of Moments" papers, such as 
+http://arxiv.org/pdf/1210.7559v2.pdf
+"Tensor Decompositions for Learning Latent Variable Models" by
+Anima Anandkumar, Rong Ge, Daniel Hsu, Sham M. Kakade, and Matus Telgarsky.
